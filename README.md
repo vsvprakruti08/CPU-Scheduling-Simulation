@@ -11,6 +11,6 @@ This simulation website is an excellent tool for students, educators, and profes
 The code for this simulation website is available on GitHub, and can be easily modified and adapted to suit specific needs and requirements. It is designed to be user-friendly, customizable, and accessible to users with different levels of programming experience.
 
 
-#website link :
+#website link :(https://github.com/vsvprakruti08/CPU-Scheduling-Simulation.git)
 
 
